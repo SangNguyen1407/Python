@@ -9,7 +9,7 @@ def split(string:str, separator: str=" ") -> list:
             split_words.append(string[last_index:len(string)])
     return split_words
 
-
+"""
 if __name__ == "__main__":
     s = split("apple#banana#cherry#orange","#")
     print(s)
@@ -17,3 +17,4 @@ if __name__ == "__main__":
     print(s)
     s = split("apple,banana,cherry,orange",",")
     print(s)
+"""
