@@ -1,4 +1,4 @@
-
+# cube number
 def cube_num (num: int) -> int:
     cube_num = num**3 # power (num,3)
     return cube_num
