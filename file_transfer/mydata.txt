@@ -1,7 +1,1 @@
-Hello
-This is sample data
-nguyen hoang sang
-nguyen van a
-nguyen van b
-test
-
+{"test1": "http://www.w3.org/1999/xhtml", "test2": "http://www.w3.org/1999/xhtml", "test3": "http://www.w3.org/1999/xhtml", "test4": "http://www.w3.org/1999/xhtml"}
