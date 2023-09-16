@@ -1,3 +1,14 @@
+"""
+file content
+
+TEST1,TEST2,TEST3|TEST4,TEST5,TEST6
+
+with delimiter=','
+['TEST1', 'TEST2', 'TEST3|TEST4', 'TEST5', 'TEST6']
+
+with delimiter=' '
+['TEST1,TEST2,TEST3|TEST4,TEST5,TEST6']
+"""
 import csv
 
 def rw_csv():
